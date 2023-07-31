@@ -12,4 +12,4 @@ Laming, Niel Bryan
 
 Project Description
 
-BeeSmart is a smart beekeeping solution that utilizes AI technology with beekeeping to improve honey production and bee health monitoring. The project aims to develop a system that will enable beekeepers to manage their hives more efficiently, remotely, and in real-time. AI technology will be used to analyze and interpret bee behavior data in real-time and to provide insights to beekeepers.
+Braille Printer with Intelligent Document Translation
